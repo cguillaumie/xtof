@@ -1,6 +1,8 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 
-from xtof.lib import try_me
+2 +2
 
-try_me()
+#from xtof.lib import try_me
+
+#try_me()
