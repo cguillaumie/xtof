@@ -1,1 +1,1 @@
-web: pip install . -U && xtof-run
+web: gunicorn main_app:app --log-file -
