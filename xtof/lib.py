@@ -1,3 +1,4 @@
 import rick_roll
 
-rick_roll.rickroll()
+def try_me():
+    rick_roll.rickroll()
