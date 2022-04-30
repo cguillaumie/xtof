@@ -1,1 +1,1 @@
-web: pip install . -U && try_me
+web: pip install . -U && xtof-run
