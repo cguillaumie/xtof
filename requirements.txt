@@ -7,6 +7,7 @@ wheel>=0.29
 # data science
 numpy
 pandas
+rick_roll
 scikit-learn
 
 # tests/linter
