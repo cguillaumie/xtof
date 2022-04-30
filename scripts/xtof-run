@@ -1,4 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-import rick_roll
-rick_roll.rickroll()
+
+from xtof.lib import try_me
+
+try_me()
